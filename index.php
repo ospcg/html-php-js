@@ -17,7 +17,7 @@
 				</div>
 			</li>
 			<li>
-				<img src="images/lechuga3.jpg"> <!-- image local agricultura -->
+				<img src="images/lechuga1.jpg"> <!-- image local agricultura -->
 				<div class="caption right-align">
 					<h3>Libre de Pesticidas</h3>
 					<h5 class="light grey-text text-lighten-3"><---- Descripción breve ----></h5>
@@ -57,7 +57,7 @@
 						<img class="activator" src="images/limachino1.jpg">
 					</div>
 					<div class="card-content">
-						<span class="card-title activator grey-text text-darken-4">Tomates Limachinos<i class="material-icons right">more_vert</i></span>
+						<span class="card-title activator grey-text text-darken-4">Tomates Limachinos</span>
 						<p><a href="limachinos.php">Leer más...</a></p>
 					</div>
 					<div class="card-reveal">
@@ -86,7 +86,7 @@
 			<div class="col m4">
 				<div class="card small">
 					<div class="card-image waves-effect waves-block waves-light">
-						<img class="activator" src="images/lechuga2.jpg">
+						<img class="activator" src="images/lechuga1.jpg">
 					</div>
 					<div class="card-content">
 						<span class="card-title activator grey-text text-darken-4">Lechugas<i class="material-icons right">more_vert</i></span>
@@ -112,7 +112,7 @@
 <script src="js/materialize.min.js"></script>
 <script>
 	$(document).ready(function(){
-		 $(".button-collapse").sideNav();
+		$(".button-collapse").sideNav();
 		$('.parallax').parallax();
 		$('.slider').slider({
 			indicators: false

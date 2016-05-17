@@ -19,7 +19,7 @@
 		</div>
 	</div>
 	<div class="parallax-container">
-		<div class="parallax"><img class="responsive-img" src="images/lechuga3.jpg"></div>
+		<div class="parallax"><img class="responsive-img" src="images/lechuga1.jpg"></div>
 	</div>
 
 </body>

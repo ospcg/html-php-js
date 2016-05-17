@@ -1,0 +1,27 @@
+.abejaAncho{
+	width: 200px
+}
+
+.footer{
+	border: 1px solid;
+}
+
+.background{
+	background-color: #FFFCF4;
+}
+
+body{
+	background-color: #FFFCF4;
+	}
+#margen{
+	margin-bottom: 0px;
+
+	}
+#superior{
+	margin-top: 0px;
+}
+
+.parallax-container {
+      height: 500px;
+    }
+

@@ -56,7 +56,7 @@
  <div class="section">
     <div class="row container">
 
-      <h5 class="header align-center">Conociendo la agricultura orgánica</h5>
+      <h5 class="header align-center brown-text">Conociendo la agricultura orgánica</h5>
       <p class="">De la tierra a su mesa. Los productos que ofrecemos son de nuestro campo cuidando su desarrollo desde la siembra a la cosecha sin pesticidas.</p>
     </div>
   

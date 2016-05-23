@@ -10,7 +10,7 @@ include_once('header.php');
 <div class="container">
 		<div class="row">
     		<div class="col s12"><br>
-				<h2 class="header">Tomates Limachinos</h2>
+				<h2 class="header brown-text">Tomates Limachinos</h2>
 				<p align="justify" class="grey-text text-darken-3 lighten-3 background">
 				
 					Los colonos italianos trajeron la semilla del tomate limachino a chile, a la comuna de Limache, donde su clima era perfecto para su cultivo. Con el tiempo  su produccion fue disminuyendo debido a su rapida maduración y fue reemplazado a pesar de su exquisito aroma y sabor, por el tomate larga vida y sus variedades.

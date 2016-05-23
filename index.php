@@ -5,6 +5,18 @@
 	include_once('header.php');
 ?>
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <title>Quilamapu</title>
+   <!--Import Google Icon Font-->
+  <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="css/materialize.min.css" media="screen,projection">
+  <link rel="stylesheet" href="css/estilo.css">
+  <link rel="icon" type="image/png" href="images/favicon.png">
+  
+</head>
+
 <body>
 <!-- inicio del slider de movimiento -->
 <div class="slider">
@@ -20,21 +32,21 @@
 				<img src="images/lechuga1.jpg"> <!-- image local agricultura -->
 				<div class="caption right-align">
 					<h3>Libre de Pesticidas</h3>
-					<h5 class="light grey-text text-lighten-3"><---- Descripción breve ----></h5>
+					<h5 class="light grey-text text-lighten-3">Lechugas sanas para una salud más prolongada</h5>
 				</div>
 			</li>
 			 <li>
 				<img src="images/abejorro.jpg"> <!-- image local agricultura -->
 				<div class="caption left-align">
 					<h3>Polinización</h3>
-					<h5 class="light grey-text text-lighten-3">---> probando texto descriptivo</h5>
+					<h5 class="light grey-text text-lighten-3">Conozca el proceso de polinización de la flor</h5>
 				</div>
 			</li>
 			 <li>
-				<img src="images/lechuga4.jpg"> <!-- image local agricultura -->
+				<img src="images/limachino2.jpg"> <!-- image local agricultura -->
 				<div class="caption right-align">
-					<h3>Lechugas</h3>
-					<h5 class="light grey-text text-lighten-3">lo orgánico de la tierra</h5>
+					<h3>Tomates Limachinos</h3>
+					<h5 class="light grey-text text-lighten-3">Recuperados despues de mas de 30 años </h5>
 				</div>
 			</li>
 		</ul>
@@ -61,8 +73,8 @@
 						<p><a href="limachinos.php">Leer más...</a></p>
 					</div>
 					<div class="card-reveal">
-						<span class="card-title grey-text text-darken-4">Sabias que...<i class="material-icons right">close</i></span>
-						<h5><p>Los colonos Italianos trajeron la semilla del tomate limachino a chile, a la comuna de Limache, donde su clima era perfecto para su cultivo </p></h5>
+						<span class="card-title grey-text text-darken-4">Sabias que...<i class="material-icons right">X</i></span>
+						<p>Los colonos Italianos trajeron la semilla del tomate limachino a chile, a la comuna de Limache, donde su clima era perfecto para su cultivo...</p>
 					</div>
 				</div>
 			</div>
@@ -73,12 +85,12 @@
 						<img class="activator" src="images/huevos.jpg">
 					</div>
 					<div class="card-content">
-						<span class="card-title activator grey-text text-darken-4">Huevos de Campo<i class="material-icons right">more_vert</i></span>
+						<span class="card-title activator grey-text text-darken-4">Huevos de Campo</span>
 						<p><a href="huevos.php">Leer más...</a></p>
 					</div>
 					<div class="card-reveal">
-						<span class="card-title grey-text text-darken-4">Sabias que...<i class="material-icons right">close</i></span>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia vitae similique suscipit. Architecto iusto sapiente eligendi omnis neque maiores a libero. Vitae, nostrum. Iusto labore illo, repellendus sed tempora cumque?</p>
+						<span class="card-title grey-text text-darken-4">Sabias que...<i class="material-icons right">X</i></span>
+						<p>El huevo es un ingrediente basico en la nutricion de nuestra familia, aporta proteínas, vitaminas, minerales y aminoácidos esenciales, que son aquellos que nuestro organismo no fabrica por sí solo y por lo tanto deben ser aportados en la dieta...</p>
 					</div>
 				</div>
 			</div>
@@ -89,12 +101,12 @@
 						<img class="activator" src="images/lechuga1.jpg">
 					</div>
 					<div class="card-content">
-						<span class="card-title activator grey-text text-darken-4">Lechugas<i class="material-icons right">more_vert</i></span>
+						<span class="card-title activator grey-text text-darken-4">Lechugas</span>
 						<p><a href="lechugas.php">Leer más...</a></p>
 					</div>
 					<div class="card-reveal">
-						<span class="card-title grey-text text-darken-4">Sabías que...<i class="material-icons right">close</i></span>
-						<p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia vitae similique suscipit. Architecto iusto sapiente eligendi omnis neque maiores a libero. Vitae, nostrum. Iusto labore illo, repellendus sed tempora cumque?</p>
+						<span class="card-title grey-text text-darken-4">Sabías que...<i class="material-icons right">X</i></span>
+						<p >Lechuga una de las hortalizas mas sanas ricas y nutritivas... en Quilamapu no preocupamos de que nustras Lechugas sean Organicas ya qu ela lechuga junto al pepino...</p>
 					</div>
 				</div>
 			</div>

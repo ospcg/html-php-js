@@ -15,7 +15,10 @@
 	<div class="section background">
 		<div class="row container">
 			<h2 class="header brown-text">Lechugas</h2>
-			<p align="justify" class="grey-text text-darken-3 lighten-3 background">Parallax is an effect where the background content or image in this case, is moved at a different speed than the foreground content while scrolling. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde aut porro quod eligendi voluptatibus placeat! Iste aperiam eveniet cupiditate laboriosam quibusdam minus numquam. Blanditiis saepe, voluptate totam qui quae ipsam!</p>
+			<p align="justify" class="grey-text text-darken-3 lighten-3 background">Las Lechugas
+				es una de las hortalizas mas sanas ricas y nutritivas... en Quilamapu no preocupamos de que nustras Lechugas sean Organicas ya qu ela lechuga junto al pepino, tomate y manzana son unos de los productos en los cuales los limites de pesticida son revazados
+				por ello  nuestro sello  de agricultura libre de pesticida es muy importante para la salud del ser humano y el cuidado del medio ambiente.
+				contamos con variedad y  lechugas todo el año.</p>
 		</div>
 	</div>
 	<div class="parallax-container">

@@ -30,14 +30,14 @@
 			</div>
 			<div class="col s4">
 				
-				<img src="images/lechuga2.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
+				<img src="images/lechuga3.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
 				
 				<span class="black-text">
 					<p class="center grey-text text-darken-3 lighten-3">Oscar</p>
 				</span>
 			</div>
 			<div class="col s4">
-				<img src="images/clientes.jpg" alt="" class="circle responsive-img materialboxed" data-caption="Clientes que llevaron felices nuestros productos, de izquierda a derecha: Juanito, pepita." width="#"> <!-- notice the "circle" class -->
+				<img src="images/lechuga4	.jpg" alt="" class="circle responsive-img materialboxed" data-caption="Clientes que llevaron felices nuestros productos, de izquierda a derecha: Juanito, pepita." width="#"> <!-- notice the "circle" class -->
 				
 				<span class="black-text">
 					<p class="center grey-text text-darken-3 lighten-3">Oscar</p>
